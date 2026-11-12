@@ -1,0 +1,1 @@
+require("molokai.theme").setup()
